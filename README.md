@@ -10,3 +10,6 @@
 
 # Here is my Ms Excel Certificate link
 https://olympus.mygreatlearning.com/courses/12583/certificate
+
+# Experience after completing the course
+It's too good and clear all the basics of Excel. It's too simple to understand and best parts of it's the quizs to check the knowledge . 
